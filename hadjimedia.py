@@ -2,7 +2,7 @@ import requests
 
 __ENDPOINT_URL__: str = "https://hadjiApi.squareweb.app/api"
 
-class HadjiMedia:
+class cpmaiman:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
