@@ -1,6 +1,6 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://hadjiApi.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://cpmtfc.squareweb.app/api"
 
 class cpmaiman:
     def __init__(self, access_key) -> None:
