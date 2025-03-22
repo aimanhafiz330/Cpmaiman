@@ -4,3 +4,4 @@
 4.cd Cpmaiman
 5.pip install -r requirements.txt
 6.python main.py
+bot @Tfcccc_bot key access free balance 1k
