@@ -1,6 +1,6 @@
-pkg install git
-pkg install python python-pip
-git clone 
-cd 
-pip install -r requirements.txt
-python main.py
+1.pkg install git
+2.pkg install python python-pip
+3.git clone 
+4.cd 
+5.pip install -r requirements.txt
+6.python main.py
