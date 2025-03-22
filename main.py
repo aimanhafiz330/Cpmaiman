@@ -14,7 +14,7 @@ from pystyle import Colors, Colorate
 from pystyle import Center
 import datetime
 
-from cpmaimann import cpmaiman
+from Cpmaimann import cpmaiman
 
 __CHANNEL_USERNAME__ = "car tfc"
 __GROUP_USERNAME__   = "car tfc_chat"
