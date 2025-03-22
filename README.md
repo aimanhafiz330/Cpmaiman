@@ -3,4 +3,4 @@
 3.git clone https://github.com/aimanhafiz330/Cpmaiman.git
 4.cd Cpmaiman
 5.pip install -r requirements.txt
-6.python main.py
+6.python maiin.py
