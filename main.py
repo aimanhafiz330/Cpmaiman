@@ -14,10 +14,10 @@ from pystyle import Colors, Colorate
 from pystyle import Center
 import datetime
 
-from hadjimedia import HadjiMedia
+from cpmaimann import cpmaiman
 
-__CHANNEL_USERNAME__ = "HadjiOfficialChannel"
-__GROUP_USERNAME__   = "HadjiDiscussion"
+__CHANNEL_USERNAME__ = "car tfc"
+__GROUP_USERNAME__   = "car tfc_chat"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
